@@ -1,6 +1,6 @@
-<h1>Oii! Eu Juliane Sales 👩🏾‍💻</h1>
+## Oii! Eu Juliane Sales 👩🏾‍💻
 
-<h4>• Cursando Desenvolvimento de Sitemas</h4>
+#### • Cursando Desenvolvimento de Sitemas
 
 <div>
 <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=omni"/>
