@@ -8,7 +8,7 @@
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julisales&theme=modern-lilac&width=1140&height=250&point=white)](https://github.com/julisales/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julisales&bg_color=291b3e&color=cd7dba&line=9374c0&point=f1e9e9&area=true&hide_border=true&width=700&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href = "mailto:contatojulisales@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
