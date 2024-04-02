@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julisales)
 
 <div>
-  <a href="https://github.com/julisales/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly" alt="Juli's GitHub stats" height="195"></a>
-  <a href="https://github.com/julisales/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&theme=jolly" alt="Top Languages" height="195"></a>
+  <a href="https://github.com/julisales/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly" alt="Juli's GitHub stats" height="190"></a>
+  <a href="https://github.com/julisales/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&theme=jolly" alt="Top Languages" height="190"></a>
 </div>
 
 ### Main skills:
