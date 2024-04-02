@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julisales)
 
 <div>
-  <img width = "49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly"/>
-  <img width = "41%" height="=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&langs_count=16&theme=jolly"/>
+  <img width = "49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly"/>
+  <img width = "41%" height="=200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
 ### Main skills:
