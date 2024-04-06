@@ -12,5 +12,5 @@
 [![SkillIcons](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![SkillIcons](https://skillicons.dev/icons?i=java,mysql,js)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=java,mysql,js,react)](https://skillicons.dev)
 
