@@ -5,8 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23130a20?style=for-the-badge&color=%23ec5ece&labelColor=%23130a20&logoColor=%23ec5ece)](https://julisales.vercel.app/)
 
 <div>
-  <img width = "49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly"/>
-  <img width = "41%" height="=200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&langs_count=16&theme=jolly"/>
+  <img width = "100%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly"/>
+  <img width = "100%" height="=200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
 ### Main skills:
