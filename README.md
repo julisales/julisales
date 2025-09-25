@@ -10,7 +10,7 @@
 </div>
 
 ### Main skills:
-[![SkillIcons](https://skillicons.dev/icons?i=c,html,css,js,figma,mysql,git,react,nodejs)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=react,nodejs,figma,js,mysql,git,)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![SkillIcons](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=python,angular)](https://skillicons.dev)
