@@ -5,12 +5,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23130a20?style=for-the-badge&color=%23ec5ece&labelColor=%23130a20&logoColor=%23ec5ece)](https://julisales.vercel.app/)
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=julisales&show_icons=true&theme=jolly&count_private=true"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=julisales&show_icons=true&theme=jolly&count_private=true"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&show_icons=true&theme=jolly&layout=compact&count_private=true"/>
 </div>
 
 ### Main skills:
-[![SkillIcons](https://skillicons.dev/icons?i=react,nodejs,figma,js,mysql,git,)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,git,figma)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![SkillIcons](https://skillicons.dev/icons?i=python,angular)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=typescript,angular)](https://skillicons.dev)
