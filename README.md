@@ -11,7 +11,7 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&show_icons=true&theme=jolly&layout=compact&count_private=true"
-    style="width:49%; height:195px; object-fit:contain; display:block; margin-left:0;"
+    style="width:35%; height:195px; object-fit:contain; display:block; margin-left:0;"
   />
 </div>
 
