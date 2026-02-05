@@ -6,11 +6,11 @@
 
 <div style="display:flex; justify-content:center; gap:0;">
   <img
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=julisales&show_icons=true&theme=jolly&count_private=true"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=julisales&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10"
     style="width:49%; height:195px; object-fit:contain; display:block; margin-right:4px;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=julisales&show_icons=true&theme=jolly&layout=compact&count_private=true"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=julisales&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
     style="width:35%; height:195px; object-fit:contain; display:block; margin-left:0;"
   />
 </div>
