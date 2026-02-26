@@ -19,4 +19,4 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,git,figma)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![SkillIcons](https://skillicons.dev/icons?i=typescript,angular)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=py,cs)](https://skillicons.dev)
